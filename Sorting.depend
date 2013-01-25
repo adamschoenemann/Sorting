@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1350912965 source:d:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\main.cpp
+	<iostream>
+	"sort.h"
+
+1350913053 d:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\sort.h
+	<iostream>
+
+1350913035 source:d:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\sort.cpp
+	"sort.h"
+
+1350920004 source:f:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\sort.cpp
+	"sort.h"
+
+1351446605 f:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\sort.h
+	<iostream>
+	"BinaryTree.hpp"
+
+1350938514 f:\dropbox\med3\proceduralprogramming\excercises\trees\binarytree\binarytree.hpp
+	<iostream>
+
+1351446579 source:f:\dropbox\med3\proceduralprogramming\excercises\sorting\sorting\main.cpp
+	<iostream>
+	"sort.h"
+
+1350928212 source:f:\dropbox\med3\proceduralprogramming\excercises\trees\binarytree\binarytree.cpp
+	"BinaryTree.hpp"
+
